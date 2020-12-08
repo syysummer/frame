@@ -90,7 +90,7 @@ npm run build --report
 
   4. 如果要用到状态共享引入vuex
     yarn add vuex -S
-
+  
   5. 安装axios
     yarn add axios -S
 

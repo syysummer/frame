@@ -1,7 +1,6 @@
 .DS_Store
-mobile_project/node_modules/
-mobile_project/dist/
-mobile_project/prod/
+node_modules/
+/dist/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*

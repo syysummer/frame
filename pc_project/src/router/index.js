@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 const Home = () => import('@/views/home');
-const Lottery = () => import ('@/views/lottery')
+const Doc = () => import('@/views/doc')
 
 Vue.use(Router)
 
@@ -13,9 +13,9 @@ export default new Router({
       component: Home
     },
     {
-      path: '/lottery',
-      name: 'Lottery',
-      component: Lottery
+      path: '/doc',
+      name: 'Doc',
+      component: Doc
     }
   ]
 })

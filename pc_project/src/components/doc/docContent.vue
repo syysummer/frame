@@ -1,17 +1,17 @@
 <template>
-  <div class="home">
-    首页
+  <div class="doc_content">
+    
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Home'
+  name: 'Doc'
 }
 </script>
 
 <style lang="less" scoped>
-.home{
+.doc_content{
   width: 100%;
   height: 50px;
   text-align: center;
