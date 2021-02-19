@@ -1,5 +1,3 @@
-# hxpc_frontend_project
-
 ## Project setup
 ```
 yarn install
