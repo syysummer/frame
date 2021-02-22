@@ -1,6 +1,6 @@
 export default {
   is_loading: true,
-  userInfo: { //上线前需将用户信息清空
+  userInfo: {
     userId: '',
     userType: '',
     nickname: '',

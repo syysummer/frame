@@ -34,7 +34,7 @@
         </p>
         <p class="teacher-certNo">执业证号：{{ view.certificateNo }}</p>
         <p class="teacher-intro">
-          个人简介：华讯股票会员专属直播间，由华讯研究院专业投研团队为你服务！
+          个人简介：哈哈哈会员专属直播间，由华讯研究院专业投研团队为你服务！
         </p>
         <div class="teacher-info-bottom">
           <p>你的评价是我们的动力：</p>

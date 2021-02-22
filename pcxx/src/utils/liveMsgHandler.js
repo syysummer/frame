@@ -472,7 +472,7 @@ const msgHandle = function ({ServiceID, msg, selfName, selfAvatar}, userId, need
           <span class="watched">${checkToday(msg.messageTime, 'HH:mm')}</span>
         </div>
       </div>
-      <div class="shareHref message-box" sharetype="0"><a href='https://www.tgw360.com/res/download'>【至尊粉专享内容，请下载淘股王APP查看】 </a></div>`
+      <div class="shareHref message-box" sharetype="0"><a href='https://www.tgw360.com/res/download'>【至尊粉专享内容，请下载哈哈哈APP查看】 </a></div>`
     return contentHtml;
   }
   return "";

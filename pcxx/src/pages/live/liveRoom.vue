@@ -116,7 +116,7 @@ export default {
       currentLive: {
         flv: '',
         introduction: "",
-        platform: 1, // 1淘股王 6华讯股票
+        platform: 1, // 1哈哈哈 6哈哈哈
         roomType: '',
         serviceId: '',
         showUrl: '',
